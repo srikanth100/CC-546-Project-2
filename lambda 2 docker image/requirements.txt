@@ -1,0 +1,9 @@
+boto3
+torch
+torchvision
+torchaudio
+dlib
+numpy
+face_recognition
+opencv-python
+ffmpeg
